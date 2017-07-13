@@ -1,4 +1,4 @@
 logging.level.cn.com=DEBUG
 logging.level.org.springframework.web = DEBUG
 server.port=9999
-name=spring-cloud-server
+foo = foo version 3
